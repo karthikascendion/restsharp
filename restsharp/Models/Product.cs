@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace restsharp.Models
+namespace restsharp_api.Models
 {
     public class Product
     {

@@ -1,7 +1,7 @@
 ﻿using NUnit.Framework;
 using RestSharp;
 
-namespace restsharp.Tests
+namespace restsharp_api.Tests
 {
     public class DeleteProductTests
     {

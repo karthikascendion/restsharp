@@ -1,9 +1,9 @@
 ﻿using NUnit.Framework;
 using RestSharp;
 using Newtonsoft.Json;
-using ProductAPI_Testing.Models;
+using restsharp_api.Models;
 
-namespace restsharp.Tests
+namespace restsharp_api.Tests
 {
     public class GetSingleProductTests
     {
